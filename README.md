@@ -15,5 +15,5 @@
 
 
 <div align="center">
-  https://snack.expo.dev/@marinacoral/jogosweb2?platform=ios
+  https://snack.expo.dev/@marinacoral/loginapppizza?platform=android
 </div>

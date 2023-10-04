@@ -13,6 +13,6 @@
 </div>
 
 
-<div 
-  align="center">https://snack.expo.dev/@marinacoral/loginapppizza?platform=web
+<div align="center">
+  https://snack.expo.dev/@marinacoral/loginapppizza?platform=web
 </div>
